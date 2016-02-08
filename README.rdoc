@@ -3,5 +3,3 @@
 Learning gitflow from this repository.
 
 Tutorial available at: https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow
-
-<tt>rake doc:app</tt>.
